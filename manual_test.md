@@ -1,6 +1,8 @@
 RDFSharp Manuális tesztelése felhasználói szemszögből: 
 
-	Az RDFSharp library egy átlagos felhasználó (itt átlagos programozó) szemszögéből, ahol az alapvető feltételezés, hogy amire a dokumentáció nem tér ki részletesen, ott a leglogikusabb kimenetelre számítunk.
+Az RDFSharp library egy átlagos felhasználó (itt átlagos programozó) szemszögéből, 
+ahol az alapvető feltételezés, hogy amire a dokumentáció nem tér ki részletesen, 
+ott a leglogikusabb kimenetelre számítunk.
 
 1.	teszt: RDF resource létrehozása:
 1.1.	Resource létrehozás helyes uri string-gel:
