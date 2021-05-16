@@ -4,7 +4,7 @@ Az RDFSharp library egy átlagos felhasználó (itt átlagos programozó) szemsz
 ahol az alapvető feltételezés, hogy amire a dokumentáció nem tér ki részletesen, 
 ott a leglogikusabb kimenetelre számítunk.
 
-1.	teszt: RDF resource létrehozása:
+1.	teszt: RDF resource létrehozása.
 1.1.	Resource létrehozás helyes uri string-gel:
 Elvárt kimenet: Sikeresen létrehozott RDF resource a megadott uri-val.
 Kimenet: Sikeresen létrehozott RDF resource a megadott uri-val.
